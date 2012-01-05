@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /api
+Disallow: /bin
+Disallow: /images
+Disallow: /modules
+Disallow: /pages
+Disallow: /rss
+Disallow: /script
+Disallow: /style
